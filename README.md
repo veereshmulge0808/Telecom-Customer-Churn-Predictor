@@ -3,7 +3,7 @@
 ## Business Overview
 Customer attrition (churn) is one of the highest cost-drivers in the telecommunications industry. This project implements an end-to-end Machine Learning pipeline to identify at-risk customers before they cancel their service. By optimizing a predictive algorithm for **Recall**, this solution allows business stakeholders to proactively deploy targeted retention strategies.
 
-**Live Web Application:** https://telecom-customer-churn-predictor-jansx52tee8lbmciprygiw.streamlit.app/
+**Live Web Application:** https://veereshmulge0808.github.io/Telecom-Customer-Churn-Predictor
 
 ---
 
